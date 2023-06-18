@@ -2,8 +2,6 @@
 
 namespace App\Helpers;
 
-namespace Xcod33\ApiResponseFormatter;
-
 /**
  * Format response.
  */
