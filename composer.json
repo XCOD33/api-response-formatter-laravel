@@ -1,0 +1,19 @@
+{
+  "name": "xcod33/api-response-formatter",
+  "description": "A simple package to format your api response",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Xcod33\\ApiResponseFormatter\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "XCOD33",
+      "email": "denistraju155@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}
